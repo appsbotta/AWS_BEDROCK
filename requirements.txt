@@ -1,2 +1,7 @@
 boto3
 awscli
+pypdf
+langchain-openai 
+streamlit
+faiss-cpu
+langchain_community
